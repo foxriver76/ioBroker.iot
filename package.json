@@ -19,7 +19,7 @@
     "url": "https://github.com/ioBroker/ioBroker.iot"
   },
   "optionalDependencies": {
-    "canvas": "^2.6.1",
+    "canvas": "^2.7.0",
     "sharp": "0.28.1"
   },
   "dependencies": {
